@@ -29,8 +29,9 @@ flowchart LR
  ## To know how to contribute go through this page [Contributor.md](Contributor.md)
  still if you want help than create a issue and add your query.
  
- ### Our Contributors:
+ ## Happy Coding</> 👨‍💻
  
+ ### Our Contributors:
  <a href="https://github.com/sandeepsahanicodes/Lets-learn-Swift-Together/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=sandeepsahanicodes/Lets-learn-Swift-Together" />
 </a>

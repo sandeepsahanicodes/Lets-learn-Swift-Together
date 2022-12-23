@@ -1,11 +1,7 @@
- <div align="center">
-
-# Contributing Guidelines 📜
-</div>
-
+# Contributing Guidelines
 
 ***
-<p>If you are new to open-source and would like to make your first contribution, please participate in this project.<p>
+<p>We appreciate your contribution, please participate in this project.<p>
 <p>Follow the steps below :- </p>
 
 ## Git Setup Guide
@@ -25,18 +21,28 @@ git config --global user.name "github username"
 git config --global user.email "email address"
 ```
 
-### 2.  Go to the first-contribution repository and Fork it.
+### 2.  Go to the Lets-learn-Swift-Together repository and Fork it.
 ---
 * The term fork refers to a rough copy of a repository. When you fork a repository, you are able to test and debug changes without affecting the original project. In addition to proposing changes to resolve bugs, forking is also used excessively for this purpose.
 
+<img width="1000" alt="Fork The Repo" src="https://user-images.githubusercontent.com/82876741/209340367-da6b9a82-fe9a-4ee5-824a-17639fdc8903.png">
+
 * Click on Code Button and copy the URL of your forked Repository
+
+<img width="1000" alt="Fork The Repo" src="https://user-images.githubusercontent.com/82876741/209343555-5308adc9-818f-4a8a-ad50-9591223c1430.jpeg">
+
+
 
 ### 3. Switch to your Git bash window, and enter the following :
 ---
-* Clone the Forked project on your local system 
-
+* Clone the Forked project on your local system
+* The copied url should look like this 👇
+```
+https://github.com/Your-User-Name/Lets-learn-Swift-Together.git
+```
+* Use the following command in Git bash window
 ```bash
-git clone https://github.com/eduardconstantin/Comic-book-button-anim.git
+git clone https://github.com/Your-User-Name/Lets-learn-Swift-Together.git
 ```
 
 
@@ -64,15 +70,28 @@ git checkout branch_name
 ```
 
 
-* Now add the files using the git command
+* Now add the Swift Playgound file using the git command
 
 ```bash
 git add .
 ```
+* The Swift code should be formatted like this 👇
+
+```swift
+//
+// Hello.playground <-- (Your playground file name)
+// Created by Sandeep Sahani on 23 Dec 2022 <-- (Your name and date on which file was created)
+//
+
+import UIKit
+
+print("Hello, I am Sandeep") <-- (Your code)
+
+```
 * Commit the changes to the local project
 
 ```bash
-git commit -m "Added my data"
+git commit -m "Added MyPlayground.playground"
 ```
 
 * Push the changes to your forked github repo
@@ -84,6 +103,8 @@ git push origin branch_name
 ---
 * Open your forked git repository, you will get a message like as shown in the figure (if not then refresh the page).
 
+<img width="1000" alt="Contri" src="https://user-images.githubusercontent.com/82876741/209347882-3d06e343-3f38-4ffe-91e5-6fb5ed6ac354.png">
+
 **Click on "Contribute 👆🏻**
 
 
@@ -92,3 +113,6 @@ git push origin branch_name
 * Click on "Create pull request"
 
 * You may add a Comment to your Pull Request
+
+# Congratulations you contributed to this repository! 🥳
+## Thanks for contributing your valuable time in this repository 🙏

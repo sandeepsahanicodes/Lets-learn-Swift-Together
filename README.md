@@ -1,4 +1,5 @@
-# Lets Learn Swift Together 🔥
+# Lets Learn Swift Together 👨‍💻
+![Figma cover](https://user-images.githubusercontent.com/82876741/209354349-c85f5fb5-be02-4198-aed0-218a62be9510.png)
 <div align="center">
 
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/kishanrajput23/Hacktoberfest-2022)
